@@ -1,6 +1,6 @@
 ## Node Js Weather App
 
-[![npm version](https://badge.fury.io/js/nodejs-weather-app.svg)](https://badge.fury.io/js/nodejs-weather-app) ![npm](https://img.shields.io/npm/l/express.svg) 
+[![npm version](https://badge.fury.io/js/nodejs-weather-app.svg)]
 
 This is a real time dynamic weather app in which a client can find the current temperature of any city in India. This app deals with dynamically fetching the weather data of different cities from an OpenWeather API. 
 
